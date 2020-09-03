@@ -1,0 +1,6 @@
+{
+  "apidata": {
+    "serverpath": "http://domain.com/api",
+    "login": "/login"
+  }
+}
